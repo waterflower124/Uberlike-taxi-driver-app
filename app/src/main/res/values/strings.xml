@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Choferfn</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyBQFCqY7afcjleEKi0YRlv1XHBKRxn8pxE</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_trip_detail">Map</string>
+    <string name="title_activity_chofer_home">ChoferHome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
